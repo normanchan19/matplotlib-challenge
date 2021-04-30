@@ -7,3 +7,4 @@ Finished data cleaning and completed regimen summary statistics table via groupb
 4/29
 Finished regimen summary statistics table via aggregation.
 Finished bar and pie charts.
+Finished quartiles, IQR, and boxplots.
