@@ -11,3 +11,4 @@ Finished quartiles, IQR, and boxplots.
 
 5/1
 Finished line and scatterplots.
+Finished correlation, linear regression, and observations and insights.
